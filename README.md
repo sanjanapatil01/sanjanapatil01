@@ -1,4 +1,15 @@
-## Hi there 👋
+<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png" >
+<h1 align="center" >👋 Hai</h1>
+<h1 align="center">I'm Sanjana P</h1>
+<h3 align="center">Mernstack Developer | C++</h3>
+
+
+
+
+
+## 📫 Connect with Me!
+<a href="https://www.linkedin.com/in/sanjana-m-patil-a66074325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/linkedin-logo.png" style='width:100px ; height=20px; '></a>
+
 
 <!--
 **sanjanapatil01/sanjanapatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
