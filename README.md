@@ -8,7 +8,7 @@
 
 
 ## 📫 Connect with Me!
-<a href="https://www.linkedin.com/in/sanjana-m-patil-a66074325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/linkedin-logo.png" style='width:100px ; height=20px; '></a>
+<a href="https://www.linkedin.com/in/sanjana-m-patil-a66074325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" style='width:100px ; height=20px; '></a>
 
 
 <!--
