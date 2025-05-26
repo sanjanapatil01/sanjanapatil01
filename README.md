@@ -1,10 +1,11 @@
 <img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png" >
 <h1 align="center" >👋 Hai</h1>
-<h1 align="center">I'm Sanjana P</h1>
-<h3 align="center">Mernstack Developer | C++</h3>
+<h1 align="center">I'm Sanjana Patil</h1>
+<h3 align="center">Mernstack Developer | C++ | Java</h3>
 
 
 
+[View the RESUME](https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Sanjana%20M%20Patil.pdf)
 
 
 ## 📫 Connect with Me!
