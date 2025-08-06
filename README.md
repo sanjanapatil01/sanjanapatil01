@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer focused on building scalable, clean web applications.
-- 🔧 Strong in Java, C++, and backend logic with Express.js & MongoDB.
+- 🔧 Strong in Java, C, and backend logic with Express.js & MongoDB.
 
 
 ---
