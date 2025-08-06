@@ -39,7 +39,7 @@
 | **Frontend**    | HTML, CSS, Bootstrap, JavaScript, EJS |
 | **Backend**     | Node.js, Express.js |
 | **Database**    | MongoDB |
-| **Languages**   | Java, C++ |
+| **Languages**   | Java, C |
 | **Tools**       | GitHub, VS Code|
 
 
@@ -58,4 +58,3 @@
 
 
 
--->
