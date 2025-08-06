@@ -1,28 +1,61 @@
-<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png" >
-<h1 align="center" >👋 Hai</h1>
-<h1 align="center">I'm Sanjana Patil</h1>
-<h3 align="center">Mernstack Developer | C++ | Java</h3>
+<!-- Banner Image -->
+<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner.png" alt="Banner" width="100%" />
+
+<!-- Personalized Message -->
+<h2 align="center">👋 Hi , I am Sanjana Patil</h2>
+
+<!-- Typing Intro -->
+<h1 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;C+||+Java" alt="Typing SVG" />
+
+</h1>
+
+<p align="center">
+  <a href="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Sanjana%20M%20Patil.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View My Resume-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a> 
+    <a href="mailto:sanjanampatil6@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sanjana-m-patil-a66074325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 MERN Stack Developer focused on building scalable, clean web applications.
+- 🔧 Strong in Java, C++, and backend logic with Express.js & MongoDB.
+
+
+---
+
+## 🛠️ Tech Stack
+
+| Category        | Technologies |
+|----------------|--------------|
+| **Frontend**    | HTML, CSS, Bootstrap, JavaScript, EJS |
+| **Backend**     | Node.js, Express.js |
+| **Database**    | MongoDB |
+| **Languages**   | Java, C++ |
+| **Tools**       | GitHub, VS Code|
+
+
+---
+
+## 🌟 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanapatil01&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanapatil01&layout=compact&theme=radical" height="150" />
+</p>
+
+---
 
 
 
-[View the RESUME](https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Sanjana%20M%20Patil.pdf)
 
 
-## 📫 Connect with Me!
-<a href="https://www.linkedin.com/in/sanjana-m-patil-a66074325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://golflifenavigators.com/wp-content/uploads/2018/09/linkedin-logo.png" style='width:100px ; height=20px; '></a>
-
-
-<!--
-**sanjanapatil01/sanjanapatil01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
