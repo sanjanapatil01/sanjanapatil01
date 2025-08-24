@@ -11,8 +11,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/Sanjana%20M%20Patil.pdf" target="_blank">
+  <a href="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/SANJANA%20PATIL%20RESUME.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄 View My Resume-black?style=for-the-badge&logo=github&logoColor=white" />
+    
   </a> 
     <a href="mailto:sanjanampatil6@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
