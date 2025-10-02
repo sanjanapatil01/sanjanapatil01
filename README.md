@@ -6,7 +6,7 @@
 
 <!-- Typing Intro -->
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;C+||+Java" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java" alt="Typing SVG" />
 
 </h1>
 
@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 💻 MERN Stack Developer focused on building scalable, clean web applications.
-- 🔧 Strong in Java, C, and backend logic with Express.js & MongoDB.
+- 🔧 Strong in Java and backend logic with Express.js & MongoDB.
 
 
 ---
@@ -39,7 +39,7 @@
 | **Frontend**    | HTML, CSS, Bootstrap, JavaScript, EJS ,React.js|
 | **Backend**     | Node.js, Express.js |
 | **Database**    | MongoDB |
-| **Languages**   | Java, C |
+| **Languages**   | Java|
 | **Tools**       | GitHub, VS Code,Postman|
 
 
