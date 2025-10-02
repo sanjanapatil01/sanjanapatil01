@@ -11,8 +11,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/SANJANA%20PATIL%20RESUME.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄 View My Resume-black?style=for-the-badge&logo=github&logoColor=white" />
+ 
     
   </a> 
     <a href="mailto:sanjanampatil6@gmail.com">
@@ -37,11 +36,11 @@
 
 | Category        | Technologies |
 |----------------|--------------|
-| **Frontend**    | HTML, CSS, Bootstrap, JavaScript, EJS |
+| **Frontend**    | HTML, CSS, Bootstrap, JavaScript, EJS ,React.js|
 | **Backend**     | Node.js, Express.js |
 | **Database**    | MongoDB |
 | **Languages**   | Java, C |
-| **Tools**       | GitHub, VS Code|
+| **Tools**       | GitHub, VS Code,Postman|
 
 
 ---
