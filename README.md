@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi, I'm Sanjana Patil</h2>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+Backend;AI+%26+ML+Learner;Building+with+logic+and+creativity..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+DSA;AI+%26+ML+Learner;Building+with+logic+and+creativity..." />
 </h1>
 
 <p align="center">
@@ -56,5 +56,5 @@
 
 
 
-<h2 align="center"><i>Dream in logic. Live in code</i></h2>
+<h2 align="center"><i>Dream in logic. Live in < code/> </i></h2>
 
