@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi, I'm Sanjana Patil</h2>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
 </h1>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ---
 
-## ▪️About Me
+## ▪️ About Me
 
--  CSBS undergraduate (VTU Belagavi) with **9.2 CGPA**  
--  Full-stack developer (MERN) with strong backend integration & secure API design  
--  Applied ML enthusiast — built models with **XGBoost, scikit-learn**  
--  Experienced in real-world projects: AI-driven interview evaluation, digital gatepass system, crop recommendation  
--  Hackathon achiever — ranked Top 20 at SuPrathon & 2nd place at CODINGO 24  
+- 🎓 CSBS undergraduate (VTU Belagavi) with **9.2 CGPA**
+- 💻 Full-stack developer skilled in **MERN stack**, REST APIs, and backend system design
+- 🤖 Applied ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
+- 🚀 Built real-world systems: **Online Gatepass**, **Movie Recommendation**, **AgriPredict**, **TalkTiveX**, **AI Recipe Generator**
+- 🏆 Hackathon achiever — **Top 20 at SuPrathon**, **2nd place at CODINGO 24**
 
 ---
 
@@ -35,41 +35,74 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend**  | HTML, CSS, React.js, Responsive UI |
-| **Backend**   | Node.js, Express.js, REST APIs |
-| **Database**  | MongoDB, Database Design |
-| **Programming** | Java, Python, DSA |
-| **Machine Learning** | Regression, Classification, XGBoost, scikit-learn |
-| **AI & APIs** | Gemini API, JWT Auth, WebRTC |
+| **Frontend**  | HTML, CSS, React.js, Bootstrap, Responsive UI |
+| **Backend**   | Node.js, Express.js, Flask, REST APIs, JWT |
+| **Databases** | MongoDB, PostgreSQL |
+| **Programming** | Java, Python, Data Structures |
+| **Machine Learning** | Regression, Classification, Vectorization, Cosine Similarity, XGBoost, scikit-learn |
+| **AI & APIs** | Gemini API, WebRTC |
 | **Tools** | Git/GitHub, VS Code, Postman, Docker (basic), Google Colab |
+| **Deployment** | Vercel, Render, GitHub Pages |
 
 ---
 
 ## ▪️ Work Experience
 
-**Junior Software Engineer Intern — SuPrazo Technologies (Aug 2025 - Present)**  
-- Designed and developed an **AI-driven interview evaluation platform** using the MERN stack.  
-- Built secure **role-based authentication** and **JWT authorization** for recruiter, admin, and candidate portals.  
-- Integrated **WebRTC** for real-time video interview sessions, ensuring smooth performance and low latency.  
-- Developed **modular React components** for dashboards, candidate management, and automated shortlisting.  
-- Implemented **interview analytics** with scoring logic, enabling recruiters to evaluate candidates more efficiently.  
-- Focused on **scalability and responsive UI**, ensuring seamless experience across devices.  
+**Junior Software Engineer Intern — SuPrazo Technologies (Aug 2025 – Present)**  
+- Contributing to an **AI-driven interview evaluation platform** using the MERN stack.  
+- Implemented **role-based authentication** and secure **JWT authorization**.  
+- Integrated **WebRTC** for real-time video interview sessions with optimized performance.  
+- Built **modular React dashboards** for candidate management, analytics, and shortlisting.  
+- Focused on scalability, API security, and responsive UI design.  
+
 ---
 
 ## ▪️ Projects
 
-- **Digital Gatepass System** — QR-based verification, OTP approval, multi-role workflow  
-- **AgriPredict** — ML crop recommendation system with ~99% accuracy  
-- **Self-Chef AI** — Recipe generator using Gemini API + YouTube integration  
-- **Restaurant Web App** — Authentication, booking, favorites, responsive UI  
+### 🔹 Online Gatepass Management System  
+QR-based digital gatepass system with OTP approval, JWT authentication, and multi-role dashboards for students, teachers, security staff, and wardens.  
+🔗 GitHub: https://github.com/sanjanapatil01/Online-Gatepass-Management  
 
 ---
 
-## ▪️  Achievements
+### 🔹 Movie Recommendation System  
+Content-based recommendation engine using text vectorization and cosine similarity with a Flask backend and React frontend.  
+🔗 GitHub: https://github.com/sanjanapatil01/movie_recommendetion  
+🌐 Live Demo: https://movie-recommendetion.vercel.app  
 
--  **Treasure Code - CODINGO 24** (VTU Belagavi) — 2nd place  
--  **SuPrathon Hackathon** — Top 20 nationally for AI-driven interview analysis app  
--  Active participant in coding challenges & ML/full-stack hackathons  
+---
+
+### 🔹 AgriPredict – Crop Recommendation System  
+Machine learning–based crop recommendation system that suggests optimal crops based on soil and environmental parameters using supervised learning models.  
+🔗 GitHub: https://github.com/sanjanapatil01/AgriPredict-Crop_Prediction  
+
+---
+
+### 🔹 TalkTiveX – Real-Time Chat Application  
+Full-stack real-time chat application built with React and Node.js, featuring instant messaging powered by Socket.io, user authentication, and a responsive UI.  
+🔗 GitHub: https://github.com/sanjanapatil01/TalkTiveX  
+
+---
+
+### 🔹 SelfChef.ai – AI-Powered Recipe Generation Platform  
+AI-driven recipe generation platform using Gemini API with secure authentication, recipe history management, and media integration.  
+🔗 GitHub: https://github.com/sanjanapatil01/Self_chef_ai  
+🌐 Live Demo: https://self-chef-ai-obkq.vercel.app  
+
+---
+
+### 🔹 Patil Restaurant Website  
+Responsive restaurant website showcasing menu, contact details, and location using HTML, CSS, JavaScript, and Bootstrap.  
+🔗 GitHub: https://github.com/sanjanapatil01/Patil-Restaurant  
+🌐 Live Demo: https://sanjanapatil01.github.io/Patil-Restaurant/  
+
+---
+
+## ▪️ Achievements
+
+- 🥈 **Treasure Code – CODINGO 24 (VTU Belagavi)** — 2nd place  
+- 🏆 **SuPrathon National Hackathon** — Top 20 teams for AI-driven interview analysis application  
+- 💡 Active participant in coding challenges and ML / full-stack hackathons  
 
 ---
 
@@ -80,4 +113,4 @@
 
 ---
 
-<h2 align="center"><i>Dream in logic. Live in < code/> </i></h2>
+<h2 align="center"><i>Dream in logic. Live in &lt;code/&gt;</i></h2>
