@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner.png" width="100%" />
+<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner%20(1).png" width="100%" />
 
-<h2 align="center">👋 Hi, I'm Sanjana Patil</h2>
+<h2 align="center">< Hi, I'm Sanjana Patil /> </h2>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
@@ -23,11 +23,11 @@
 
 ## ▪️ About Me
 
-- 🎓 CSBS undergraduate (VTU Belagavi) with **9.2 CGPA**
-- 💻 Full-stack developer skilled in **MERN stack**, REST APIs, and backend system design
-- 🤖 Applied ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
-- 🚀 Built real-world systems: **Online Gatepass**, **Movie Recommendation**, **AgriPredict**, **TalkTiveX**, **AI Recipe Generator**
-- 🏆 Hackathon achiever — **Top 20 at SuPrathon**, **2nd place at CODINGO 24**
+- CSBS undergraduate (VTU Belagavi) with **9.2 CGPA**
+- Full-stack developer skilled in **MERN stack**, REST APIs, and backend system design
+- Applied ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
+- Built real-world systems: **Online Gatepass**, **Movie Recommendation**, **AgriPredict**, **TalkTiveX**, **AI Recipe Generator**
+- Hackathon achiever — **Top 20 at SuPrathon**, **2nd place at CODINGO 24**
 
 ---
 
@@ -101,9 +101,9 @@ Responsive restaurant website showcasing menu, contact details, and location usi
 
 ## ▪️ Achievements
 
-- 🥈 **Treasure Code – CODINGO 24 (VTU Belagavi)** — 2nd place  
-- 🏆 **SuPrathon National Hackathon** — Top 20 teams for AI-driven interview analysis application  
-- 💡 Active participant in coding challenges and ML / full-stack hackathons  
+-  **Treasure Code – CODINGO 24 (VTU Belagavi)** — 2nd place  
+-  **SuPrathon National Hackathon** — Top 20 teams for AI-driven interview analysis application  
+-  Active participant in coding challenges and ML / full-stack hackathons  
 
 ---
 
