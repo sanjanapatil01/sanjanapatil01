@@ -37,11 +37,11 @@
 |----------|--------------|
 | **Frontend**  | HTML, CSS, React.js, Bootstrap, Responsive UI |
 | **Backend**   | Node.js, Express.js, Flask, REST APIs, JWT |
-| **Databases** | MongoDB, PostgreSQL |
+| **Databases** | MongoDB, PostgreSQL,SQLite |
 | **Programming** | Java, Python, Data Structures |
-| **Machine Learning** | Regression, Classification, Vectorization, Cosine Similarity, XGBoost, scikit-learn |
+| **Machine Learning** | Regression, Classification,Clustering, Vectorization, Cosine Similarity, XGBoost, scikit-learn |
 | **AI & APIs** | Gemini API, WebRTC |
-| **Tools** | Git/GitHub, VS Code, Postman, Docker (basic), Google Colab |
+| **Tools** | Git/GitHub, VS Code, Postman, Docker (basic), Google Colab,CI/CD |
 | **Deployment** | Vercel, Render, GitHub Pages |
 
 ---
@@ -64,6 +64,12 @@ QR-based digital gatepass system with OTP approval, JWT authentication, and mult
 🔗 GitHub: https://github.com/sanjanapatil01/Online-Gatepass-Management  
 
 ---
+### 🔹 SelfChef.ai – AI-Powered Recipe Generation Platform  
+AI-driven recipe generation platform using Gemini API with secure authentication, recipe history management, and media integration.  
+🔗 GitHub: https://github.com/sanjanapatil01/Self_chef_ai  
+🌐 Live Demo: https://self-chef-ai-obkq.vercel.app  
+
+---
 
 ### 🔹 Movie Recommendation System  
 Content-based recommendation engine using text vectorization and cosine similarity with a Flask backend and React frontend.  
@@ -84,12 +90,7 @@ Full-stack real-time chat application built with React and Node.js, featuring in
 
 ---
 
-### 🔹 SelfChef.ai – AI-Powered Recipe Generation Platform  
-AI-driven recipe generation platform using Gemini API with secure authentication, recipe history management, and media integration.  
-🔗 GitHub: https://github.com/sanjanapatil01/Self_chef_ai  
-🌐 Live Demo: https://self-chef-ai-obkq.vercel.app  
 
----
 
 ### 🔹 Patil Restaurant Website  
 Responsive restaurant website showcasing menu, contact details, and location using HTML, CSS, JavaScript, and Bootstrap.  
