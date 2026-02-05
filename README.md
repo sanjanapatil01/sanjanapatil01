@@ -4,7 +4,7 @@
 <h2 align="center">< Hi, I'm Sanjana Patil /> </h2>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
 </h1>
 
 <p align="center">
