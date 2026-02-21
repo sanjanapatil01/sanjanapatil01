@@ -23,11 +23,9 @@
 
 ## ▪️ About Me
 
-- CSBS undergraduate (VTU Belagavi) with **9.2 CGPA**
 - Full-stack developer skilled in **MERN stack**, REST APIs, and backend system design
-- Applied ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
-- Built real-world systems: **Online Gatepass**, **Movie Recommendation**, **AgriPredict**, **TalkTiveX**, **AI Recipe Generator**
-- Hackathon achiever — **Top 20 at SuPrathon**, **2nd place at CODINGO 24**
+- Applied AI & ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
+
 
 ---
 
