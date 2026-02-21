@@ -1,10 +1,10 @@
 <!-- Banner -->
-<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner%20(1).png" width="100%" />
+<img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner%20(5).png" width="100%" />
 
 <h2 align="center">< Hi, I'm Sanjana Patil /> </h2>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%26+Python+Programmer;AI+%26+ML+Explorer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=950&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Programmer;AI+%26+ML+Explorer;" />
 </h1>
 
 <p align="center">
@@ -41,7 +41,7 @@
 | **Programming** | Java, Python, Data Structures |
 | **Machine Learning** | Regression, Classification,Clustering, Vectorization, Cosine Similarity, XGBoost, scikit-learn |
 | **AI & APIs** | Gemini API, WebRTC |
-| **Tools** | Git/GitHub, VS Code, Postman, Docker (basic), Google Colab,CI/CD |
+| **Tools** | Git/GitHub, VS Code, Postman, Docker, Google Colab,CI/CD |
 | **Deployment** | Vercel, Render, GitHub Pages |
 
 ---
@@ -75,6 +75,15 @@ AI-driven recipe generation platform using Gemini API with secure authentication
 Content-based recommendation engine using text vectorization and cosine similarity with a Flask backend and React frontend.  
 🔗 GitHub: https://github.com/sanjanapatil01/movie_recommendetion  
 🌐 Live Demo: https://movie-recommendetion.vercel.app  
+
+---
+### 🔹 Startup Scout – VC Discovery Platform
+
+Web-based VC discovery platform designed to help investors identify, analyze, and organize early-stage startups. 
+
+
+🔗 GitHub: https://github.com/sanjanapatil01/startup-scout
+🌐 Live Demo: https://startup-scout-navy.vercel.app/
 
 ---
 
@@ -115,3 +124,6 @@ Responsive restaurant website showcasing menu, contact details, and location usi
 ---
 
 <h2 align="center"><i>Dream in logic. Live in &lt;code/&gt;</i></h2>
+<p style="font-size:14px" align="center">Train your logic with my Sudoku game: <a href="https://games-liart-chi.vercel.app/">PLAY</a></p>
+
+
