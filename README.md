@@ -140,6 +140,14 @@ Junior Software Engineer Intern — SuPrazo Technologies
 - 🚀 Top 20 — National-level Hackathon
 
 ---
+## 🔹 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanapatil01&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanapatil01&layout=compact&theme=radical" />
+</p>
+
+---
 
 <h2 align="center"><i>Dream in logic. Live in &lt;code/&gt;</i></h2>
 <p style="font-size:14px" align="center">Train your logic with my Sudoku game: <a href="https://games-liart-chi.vercel.app/">PLAY</a></p>
