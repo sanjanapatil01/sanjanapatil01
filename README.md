@@ -21,103 +21,123 @@
 
 ---
 
-## ▪️ About Me
 
-- Full-stack developer skilled in **MERN stack**, REST APIs, and backend system design
-- Applied AI & ML enthusiast with hands-on experience using **scikit-learn, XGBoost**
+### About Me
 
+Aspiring Software Engineer with a strong foundation in software development, secure coding, and technical troubleshooting.
+Experienced in building scalable, high-performance applications using modern technologies and Agile SDLC practices.
 
----
-
-## ▪️ Tech Skills
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend**  | HTML, CSS, React.js, Bootstrap, Responsive UI |
-| **Backend**   | Node.js, Express.js, Flask, REST APIs, JWT |
-| **Databases** | MongoDB, PostgreSQL,SQLite |
-| **Programming** | Java, Python, Data Structures |
-| **Machine Learning** | Regression, Classification,Clustering, Vectorization, Cosine Similarity, XGBoost, scikit-learn |
-| **AI & APIs** | Gemini API, WebRTC |
-| **Tools** | Git/GitHub, VS Code, Postman, Docker, Google Colab,CI/CD |
-| **Deployment** | Vercel, Render, GitHub Pages |
+- 🎓 B.Tech in Computer Science (CGPA: 9.2)
+- 💻 Strong in Java, Python, Full Stack Development
+- 🚀 Focused on automation, system reliability, and scalable architecture
 
 ---
 
-## ▪️ Work Experience
+### Technical Skills
 
-**Junior Software Engineer Intern — SuPrazo Technologies (Aug 2025 – Present)**  
-- Contributing to an **AI-driven interview evaluation platform** using the MERN stack.  
-- Implemented **role-based authentication** and secure **JWT authorization**.  
-- Integrated **WebRTC** for real-time video interview sessions with optimized performance.  
-- Built **modular React dashboards** for candidate management, analytics, and shortlisting.  
-- Focused on scalability, API security, and responsive UI design.  
+Programming Languages
 
----
+- Java (Primary)
+- Python
+- JavaScript
 
-## ▪️ Projects
+Software Engineering
 
-### 🔹 Online Gatepass Management System  
-QR-based digital gatepass system with OTP approval, JWT authentication, and multi-role dashboards for students, teachers, security staff, and wardens.  
-🔗 GitHub: https://github.com/sanjanapatil01/Online-Gatepass-Management  
+- Software Development Life Cycle (SDLC)
+- Agile Methodology
+- CI/CD Pipelines
+- Application Resiliency
+- Secure Coding
 
----
-### 🔹 SelfChef.ai – AI-Powered Recipe Generation Platform  
-AI-driven recipe generation platform using Gemini API with secure authentication, recipe history management, and media integration.  
-🔗 GitHub: https://github.com/sanjanapatil01/Self_chef_ai  
-🌐 Live Demo: https://self-chef-ai-obkq.vercel.app  
+Core Skills
 
----
+- Technical Troubleshooting
+- Debugging
+- Automation
+- Data Analysis
 
-### 🔹 Movie Recommendation System  
-Content-based recommendation engine using text vectorization and cosine similarity with a Flask backend and React frontend.  
-🔗 GitHub: https://github.com/sanjanapatil01/movie_recommendetion  
-🌐 Live Demo: https://movie-recommendetion.vercel.app  
+Frameworks & Tools
 
----
-### 🔹 Startup Scout – VC Discovery Platform
+- React.js, Node.js, Express.js, Flask
+- Git, GitHub, Docker, Postman
 
-Web-based VC discovery platform designed to help investors identify, analyze, and organize early-stage startups. 
+Databases
 
+- PostgreSQL (Relational Database)
+- MongoDB
+- SQLite
 
-🔗 GitHub: https://github.com/sanjanapatil01/startup-scout
-🌐 Live Demo: https://startup-scout-navy.vercel.app/
+Cloud & Systems
 
----
+- Cloud Computing (Vercel, Render)
+- Distributed Systems
+- System Design Fundamentals
 
-### 🔹 AgriPredict – Crop Recommendation System  
-Machine learning–based crop recommendation system that suggests optimal crops based on soil and environmental parameters using supervised learning models.  
-🔗 GitHub: https://github.com/sanjanapatil01/AgriPredict-Crop_Prediction  
+Other Knowledge
 
----
-
-### 🔹 TalkTiveX – Real-Time Chat Application  
-Full-stack real-time chat application built with React and Node.js, featuring instant messaging powered by Socket.io, user authentication, and a responsive UI.  
-🔗 GitHub: https://github.com/sanjanapatil01/TalkTiveX  
+- Big Data Concepts
+- Data Warehousing
+- API Security
+- Performance Optimization
 
 ---
 
+### Experience
 
+Junior Software Engineer Intern — SuPrazo Technologies
 
-### 🔹 Patil Restaurant Website  
-Responsive restaurant website showcasing menu, contact details, and location using HTML, CSS, JavaScript, and Bootstrap.  
-🔗 GitHub: https://github.com/sanjanapatil01/Patil-Restaurant  
-🌐 Live Demo: https://sanjanapatil01.github.io/Patil-Restaurant/  
+📅 Aug 2025 – Feb 2026
 
----
-
-## ▪️ Achievements
-
--  **Treasure Code – CODINGO 24 (VTU Belagavi)** — 2nd place  
--  **SuPrathon National Hackathon** — Top 20 teams for AI-driven interview analysis application  
--  Active participant in coding challenges and ML / full-stack hackathons  
+- Developed an AI-driven interview platform, reducing manual effort by 90%
+- Built secure REST APIs using JWT for authentication and data protection
+- Performed technical troubleshooting and debugging to improve system reliability
+- Applied automation in SDLC to optimize development workflows
+- Worked with data sets for analysis and system improvement
+- Collaborated in Agile, cross-functional teams
 
 ---
 
-## ▪️ GitHub Analytics
+### Projects
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanjanapatil01&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sanjanapatil01&layout=compact&theme=radical" />
+🔹 SelfChef.ai — AI Recipe Generator
+
+🔗 GitHub: https://github.com/sanjanapatil01/Self_chef_ai
+🌐 Live: https://self-chef-ai-obkq.vercel.app
+
+- Built a scalable full-stack application using MERN
+- Integrated Gemini API for dynamic content generation
+- Implemented secure backend systems
+- Used Docker for containerization and deployment
+
+---
+
+🔹 Online Gatepass Management System
+
+🔗 GitHub: https://github.com/sanjanapatil01/Online-Gatepass-Management
+
+- Developed a secure role-based system with OTP and QR authentication
+- Built scalable APIs and optimized database queries
+- Designed real-time dashboards for monitoring
+
+---
+
+🔹 Movie Recommendation System
+
+🔗 GitHub: https://github.com/sanjanapatil01/movie_recommendetion
+🌐 Live: https://movie-recommendetion.vercel.app
+
+- Built a machine learning recommendation engine
+- Used cosine similarity and vectorization
+- Developed Flask APIs and interactive frontend
+
+---
+
+### Achievements
+
+- Solved 200+ problems on LeetCode
+- 🥈 2nd Place — CODINGO 24 (VTU)
+- 🏅 Top 10 — Debugging Competition
+- 🚀 Top 20 — National-level Hackathon
 
 ---
 
