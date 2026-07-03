@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <img src="https://github.com/sanjanapatil01/sanjanapatil01/blob/main/learner%20(5).png" width="100%" />
 
 <h2 align="center">< Hi, I'm Sanjana Patil /> </h2>
@@ -148,11 +148,14 @@ Motivated Software Engineer with a strong foundation in software development, se
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjanapatil01&show_icons=true&theme=default&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanapatil01&layout=compact&theme=default&hide_border=true" />
+  
 </p>
 
 ---
 <h3 align="center">Building Reliable Software. Solving Real Problems.</h3>
 
 <p style="font-size:14px" align="center">Train your logic with my Sudoku game: <a href="https://games-liart-chi.vercel.app/">PLAY</a></p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjanapatil01&label=Profile%20views&color=0e75b6&style=flat)
 
 
